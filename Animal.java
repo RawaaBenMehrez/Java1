@@ -7,7 +7,7 @@ public class Animal
     // Constructeur paramétré
     public Animal(String family,String name,int age,boolean isMammal)
     {
-        this.family = family;
+        this.family = family; //this
         this.name=name;
         this.age=age;
         this.isMammal= isMammal;

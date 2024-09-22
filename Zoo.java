@@ -6,7 +6,7 @@ public class Zoo
 
     public Zoo(String name , String city, int nbrCages)
     {
-        this.animals= new Animal [nbrCages];
+        this.animals= new Animal [nbrCages]; //table
         this.name = name;
         this.city = city;
         this.nbrCages = nbrCages;
