@@ -23,7 +23,9 @@ public class ZooManagement
             System.out.println(zoo.zooName + " comporte " + zoo.nbrCages + " cages");*/
 
 // 1ere METHODE:
-                /*System.out.println("Animal : " + lion.name);
+                /*
+                //Afficher les informations
+                System.out.println("Animal : " + lion.name);
                 System.out.println("Famille : " + lion.family);
                 System.out.println("Âge : " + lion.age + " ans");
                 System.out.println("Est un mammifère : " + lion.isMammal);
@@ -33,6 +35,7 @@ public class ZooManagement
                 System.out.println("Nombre de cages : " + myZoo.nbrCages);*/
 //2éme METHODE:
                 // Utilisation des méthodes toString() pour afficher les informations
+
                 System.out.println(lion);  // Appelle lion.toString()
                 System.out.println();
                 System.out.println(myZoo);  // Appelle myZoo.toString()
