@@ -24,7 +24,6 @@ public class ZooManagement
 
 // 1ere METHODE:
                 /*
-                //Afficher les informations
                 System.out.println("Animal : " + lion.name);
                 System.out.println("Famille : " + lion.family);
                 System.out.println("Âge : " + lion.age + " ans");
